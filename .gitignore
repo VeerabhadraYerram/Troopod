@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+backend.log
+frontend.log
+*.png
+*.webp
+.DS_Store
